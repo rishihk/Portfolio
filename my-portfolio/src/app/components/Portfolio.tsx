@@ -3,7 +3,6 @@
 
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
-import { Typography } from '@mui/material';
 import Header from './Header';
 import Navigation from './Navigation';
 import AboutSection from './AboutSection';
