@@ -9,8 +9,6 @@ const Header: React.FC = () => (
     padding: '24px 48px', 
     position: 'sticky', 
     top: 0, 
-    backgroundColor: 'rgba(17, 24, 39, 0.8)', 
-    backdropFilter: 'blur(8px)', 
     zIndex: 10,
     overflow: 'hidden' // To ensure particles don't overflow
   }}>

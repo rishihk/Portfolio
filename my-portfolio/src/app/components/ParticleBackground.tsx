@@ -25,7 +25,7 @@ const ParticleBackground: React.FC = () => {
             value: 375,
             density: {
               enable: true,
-              area: 800,
+              area: 600,
             },
           },
           color: {
@@ -60,10 +60,10 @@ const ParticleBackground: React.FC = () => {
           },
           modes: {
             repulse: {
-              distance: 100,
+              distance: 200,
             },
             push: {
-              quantity: 4,
+              quantity: 40,
             },
           },
         },
