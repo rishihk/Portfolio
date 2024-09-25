@@ -39,8 +39,8 @@ const AboutSection: React.FC = () => (
           cloud technologies, and DevOps practices.
         </Typography>
         <Typography variant="body1" style={{ color: '#d1d5db', lineHeight: 1.6 }}>
-          I'm constantly seeking new challenges and opportunities to innovate in the tech
-          world. I make sure to stay upto date with all the new innovations in the field. When I'm not coding, you can find
+          I&apos;m constantly seeking new challenges and opportunities to innovate in the tech
+          world. I make sure to stay upto date with all the new innovations in the field. When I&apos;m not coding, you can find
           me playing soccer, basketball, tennis, pickleball, table tennis, or just about any sport.
         </Typography>
       </CardContent>
