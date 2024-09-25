@@ -11,6 +11,7 @@ const experiences = [
       "Developed full-stack features and resolved bugs for an app used by 470+ managers to manage 2000+ employees.",
       "Created GitHub Actions and workflows to automate resetting employee statuses for auditing.",
       "Designed a Jenkins pipeline to deploy AWS infrastructure and log S3 bucket changes to CloudWatch.",
+      "Migrated several functions from the application to a serverless architecture using AWS Lambda and API Gateway.",
       "Automated S3 data cleanup and AWS Lambda function deployment processes.",
       "Interacted with databases, worked on code migrations, refactored React components, and practiced TDD."
     ],
